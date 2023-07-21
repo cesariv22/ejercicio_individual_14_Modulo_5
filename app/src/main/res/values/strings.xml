@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ejercicio_individual_14_Modulo_5</string>
+    <string name="txt_bienvenida">Bienvenido al Banco PN</string>
+    <string name="rb_saldo">Ver Saldo</string>
+    <string name="rb_ingresar">Ingresar Dinero</string>
+    <string name="rb_retirar">Retirar Dinero</string>
+    <string name="rb_salir">Salir</string>
+    <string name="btn_ok">Realizar Operación</string>
+    <string name="txt_saldo_actual">Saldo</string>
+    <string name="txt_input_movimiento">Ingresar Monto</string>
+    <string name="txt_ver_saldo">Mi saldo: </string>
+</resources>
